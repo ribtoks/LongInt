@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongInt", "LongInt\LongInt.csproj", "{9D097440-B159-4E3B-ADAF-4B863281D073}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongIntTesting", "LongIntTesting\LongIntTesting.csproj", "{954F5418-FDC8-41EF-8D91-2581552529DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryNumbersTests", "BinaryNumbersTests\BinaryNumbersTests.csproj", "{6EA4C559-95E8-4B9F-9974-AFBBA01FCA0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecimalNumbersTests", "DecimalNumbersTests\DecimalNumbersTests.csproj", "{AC66C84D-214F-482A-ACA3-30BADBBC6A06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSAlib", "RSAlib\RSAlib.csproj", "{05358452-DD89-45ED-A844-60477673671B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05358452-DD89-45ED-A844-60477673671B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05358452-DD89-45ED-A844-60477673671B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05358452-DD89-45ED-A844-60477673671B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05358452-DD89-45ED-A844-60477673671B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EA4C559-95E8-4B9F-9974-AFBBA01FCA0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EA4C559-95E8-4B9F-9974-AFBBA01FCA0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EA4C559-95E8-4B9F-9974-AFBBA01FCA0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EA4C559-95E8-4B9F-9974-AFBBA01FCA0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{954F5418-FDC8-41EF-8D91-2581552529DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{954F5418-FDC8-41EF-8D91-2581552529DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{954F5418-FDC8-41EF-8D91-2581552529DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{954F5418-FDC8-41EF-8D91-2581552529DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D097440-B159-4E3B-ADAF-4B863281D073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D097440-B159-4E3B-ADAF-4B863281D073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D097440-B159-4E3B-ADAF-4B863281D073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D097440-B159-4E3B-ADAF-4B863281D073}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC66C84D-214F-482A-ACA3-30BADBBC6A06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC66C84D-214F-482A-ACA3-30BADBBC6A06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC66C84D-214F-482A-ACA3-30BADBBC6A06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC66C84D-214F-482A-ACA3-30BADBBC6A06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = LongIntTesting\LongIntTesting.csproj
+	EndGlobalSection
+EndGlobal
