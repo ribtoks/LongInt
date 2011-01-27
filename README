@@ -1,0 +1,3 @@
+Own implementation of Long Numbers on C# (with base 10^ and 2^), generating of
+prime numbers, rabin prime test, RSA cryptosystem parts like public and
+private keys, RSA signing etc.
